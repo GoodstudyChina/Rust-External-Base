@@ -1,8 +1,0 @@
-E:\Visual Studio Projects\External Base\External Base\bin\Debug\External Base.exe.config
-E:\Visual Studio Projects\External Base\External Base\bin\Debug\External Base.exe
-E:\Visual Studio Projects\External Base\External Base\bin\Debug\External Base.pdb
-E:\Visual Studio Projects\External Base\External Base\bin\Debug\Jupiter.dll
-E:\Visual Studio Projects\External Base\External Base\obj\Debug\External Base.csprojAssemblyReference.cache
-E:\Visual Studio Projects\External Base\External Base\obj\Debug\External Base.csproj.CopyComplete
-E:\Visual Studio Projects\External Base\External Base\obj\Debug\External Base.exe
-E:\Visual Studio Projects\External Base\External Base\obj\Debug\External Base.pdb
